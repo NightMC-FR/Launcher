@@ -1,4 +1,4 @@
-![NightMC](ttp://night-mc.fr/assets/images/icon.png "Logo de NightMC")
+![NightMC](http://night-mc.fr/assets/images/icon.png "Logo de NightMC")
 
 ## NightMC - Launcher
 
